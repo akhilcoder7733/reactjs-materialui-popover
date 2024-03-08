@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactjs-materialui-popover/static/css/main.ab85b8a4.css",
+    "main.js": "/reactjs-materialui-popover/static/js/main.17142910.js",
+    "static/js/453.bc723d6d.chunk.js": "/reactjs-materialui-popover/static/js/453.bc723d6d.chunk.js",
+    "static/media/not.svg": "/reactjs-materialui-popover/static/media/not.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "static/media/loginimg.svg": "/reactjs-materialui-popover/static/media/loginimg.1c253af41ec66811b363ab192e7fed21.svg",
+    "static/media/register.svg": "/reactjs-materialui-popover/static/media/register.03c97220a641aed62e050b54759f652a.svg",
+    "index.html": "/reactjs-materialui-popover/index.html",
+    "main.ab85b8a4.css.map": "/reactjs-materialui-popover/static/css/main.ab85b8a4.css.map",
+    "main.17142910.js.map": "/reactjs-materialui-popover/static/js/main.17142910.js.map",
+    "453.bc723d6d.chunk.js.map": "/reactjs-materialui-popover/static/js/453.bc723d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab85b8a4.css",
+    "static/js/main.17142910.js"
+  ]
+}
